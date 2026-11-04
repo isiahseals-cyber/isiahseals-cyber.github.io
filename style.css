@@ -274,3 +274,10 @@ nav h1 {
 #portfolio a:hover::after {
   opacity: 1;
 }
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
